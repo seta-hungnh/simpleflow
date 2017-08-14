@@ -3,3 +3,7 @@
 function initial(){
 	return 'initial';
 }
+
+function feature1(){
+	return 'feature1';
+}
